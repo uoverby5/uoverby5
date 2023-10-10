@@ -5,6 +5,7 @@
  - <b>Java Eclipse IDE</b>
     - [Odometer Simulation](https://github.com/uoverby5/OdometerProject)
     - [Baccarat Game](https://github.com/uoverby5/OdometerProject)
+    - [MP3 Filtering](https://github.com/uoverby5/FileReading)
     
 <h2>👨‍💻Data Analytics</h2>
 
