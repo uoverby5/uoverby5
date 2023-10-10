@@ -2,8 +2,8 @@
 
 <h2>👨‍💻Java</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Odometer Simulation](https://github.com/uoverby5/OdometerProject)
+  - 
     
 <h2>👨‍💻Data Analytics</h2>
 
