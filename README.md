@@ -8,8 +8,8 @@
     
 <h2>👨‍💻Data Analytics</h2>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Jupyuter-Notebook Python</b>
+  - [Data Visualization](https://github.com/uoverby5/DataVisualizationProject)
   
 <h2> 🤳 Connect with me:</h2>
 
