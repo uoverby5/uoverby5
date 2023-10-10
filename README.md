@@ -10,6 +10,7 @@
 
 - <b>Jupyuter-Notebook Python</b>
   - [Data Visualization](https://github.com/uoverby5/DataVisualizationProject)
+  - [Numpy Basics](https://github.com/uoverby5/NumpyArrays)
   
 <h2> 🤳 Connect with me:</h2>
 
