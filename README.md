@@ -2,8 +2,8 @@
 
 <h2>👨‍💻Java</h2>
 
-  - [Odometer Simulation](https://github.com/uoverby5/OdometerProject)
-  - 
+ - <b>Java Eclipse IDE</b>
+    - [Odometer Simulation](https://github.com/uoverby5/OdometerProject)
     
 <h2>👨‍💻Data Analytics</h2>
 
