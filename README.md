@@ -4,7 +4,7 @@
 
  - <b>Java Eclipse IDE</b>
     - [Odometer Simulation](https://github.com/uoverby5/OdometerProject)
-    - [Using UML Diagrams and Implementing Abstract Classes](https://github.com/uoverby5/OdometerProject)
+    - [BaccaratGame](https://github.com/uoverby5/OdometerProject)
     
 <h2>👨‍💻Data Analytics</h2>
 
