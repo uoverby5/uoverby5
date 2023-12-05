@@ -13,7 +13,7 @@
   - [Data Visualization](https://github.com/uoverby5/DataVisualizationProject)
   - [Numpy Basics](https://github.com/uoverby5/NumpyArrays)
   - [Data Cleaning](https://github.com/uoverby5/Pandas)
-  - [Project](https://github.com/uoverby5/Pandas)
+  - [Project](https://github.com/uoverby5/DataAnalyticsProject)
   
 <h2> 🤳 Connect with me:</h2>
 
